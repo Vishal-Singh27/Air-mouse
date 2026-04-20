@@ -87,7 +87,5 @@ python main.py
 
 ## 👥 Team & Credits
 
-  * **Vishal Singh** - Project Lead / System Integration
-  * **Yasmin Devargattu** - Computer Vision Engine
-  * **Tanvi Sheoran** - Action Controller Logic
-  * **Angela Anna Antonny** - Action Controller Logic
+* **Vishal Singh**, **Yasmin Devargattu**  - Handled vision control, and integration of tkinter app with all modules
+* **Angela Anna Antonny**, **Tanvi Sheoran** - Handled mouse control, and handled the documentations
